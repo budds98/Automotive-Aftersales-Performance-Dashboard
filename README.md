@@ -13,7 +13,7 @@ The Aftersales Performance Dashboard was developed to provide a focused evaluati
 
 6. For data visualization and analysis, PostgreSQL is connected to Power BI to build dashboards that analyze key workshop business metrics.
    
-   ![Alt text atau deskripsi gambar](https://github.com/budds98/Automotive-Aftersales-Performance-Dashboard/blob/main/power-bi.jpg)
+   ![Alt text atau deskripsi gambar](https://github.com/budds98/Automotive-Aftersales-Performance-Dashboard/blob/main/SQL_to_PowerBI.jpg)
 
 
 
